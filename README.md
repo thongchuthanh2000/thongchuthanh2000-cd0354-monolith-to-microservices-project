@@ -84,3 +84,14 @@ Launch the frontend app locally.
     ```
 4. `set_env.sh` is really for your backend application. Frontend applications have a different notion of how to store configurations. Configurations for the application endpoints can be configured inside of the `environments/environment.*ts` files.
 5. In `set_env.sh`, environment variables are set with `export $VAR=value`. Setting it this way is not permanent; every time you open a new terminal, you will have to run `set_env.sh` to reconfigure your environment variables. To verify if your environment variable is set, you can check the variable with a command like `echo $POSTGRES_USERNAME`.
+<img width="981" alt="log_backend" src="https://user-images.githubusercontent.com/42094883/170787477-0c691e86-d8ea-46e3-a4d3-4c4396a878c2.png">
+<img width="929" alt="travis" src="https://user-images.githubusercontent.com/42094883/170787483-ea914429-4852-4192-9700-b6dfed3e3d7d.png">
+<img width="1280" alt="udagram" src="https://user-images.githubusercontent.com/42094883/170787486-b3519c9f-6867-4452-ae1f-7ba94a3e6bdf.png">
+<img width="569" alt="descriable_services_1" src="https://user-images.githubusercontent.com/42094883/170787491-9659c609-b29b-4ea9-9d7c-f08be24e0406.png">
+<img width="564" alt="descriable_services_2" src="https://user-images.githubusercontent.com/42094883/170787497-54612847-a7e7-4193-880d-5beec0f02437.png">
+<img width="557" alt="descriable_services_3" src="https://user-images.githubusercontent.com/42094883/170787503-c8b47c45-b0e5-4590-bf8c-56118358fe23.png">
+<img width="520" alt="docker" src="https://user-images.githubusercontent.com/42094883/170787504-cd58a55b-9258-45ad-be01-d6b2dd9c3c48.png">
+<img width="541" alt="get_pods" src="https://user-images.githubusercontent.com/42094883/170787506-a412aa5e-f261-423f-a022-4f71cedb0d6c.png">
+<img width="982" alt="hpa" src="https://user-images.githubusercontent.com/42094883/170787508-8bda9319-fe78-4637-bf0a-be8b67fd7ad0.png">
+
+
